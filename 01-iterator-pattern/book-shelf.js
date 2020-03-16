@@ -1,4 +1,4 @@
-const BookShelfIterator = require("./book-shelf-iterator.js");
+const BookShelfIterator = require("./book-shelf-iterator");
 
 /**
  * @implements Aggregate

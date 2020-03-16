@@ -1,5 +1,5 @@
-const BookShelf = require("./book-shelf.js");
-const Book = require("./book.js");
+const BookShelf = require("./book-shelf");
+const Book = require("./book");
 
 const bookShelf = new BookShelf();
 
