@@ -1,8 +1,10 @@
 # Design patterns in Javascript
 
+*Read this in other languages*: 🇺🇸, 🇰🇷
+
 In this repository, I will cover the below design patterns(a.k.a. GoF Design pattern) in javascript:
 
-1. [terator pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/01-iterator-pattern)
+1. [Iterator pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/01-iterator-pattern)
 2. [Adaptor pattern(wrapper pattern)](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/02-Adapter(wrapper)-pattern)
 3. Template method pattern
 4. Factory method pattern
