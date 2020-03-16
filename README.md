@@ -1,6 +1,6 @@
 # Design patterns in Javascript
 
-*Read this in other languages*: 🇺🇸, 🇰🇷
+*Read this in other languages*: [🇺🇸](https://github.com/ygnoh/design-patterns-in-javascript/blob/master/README.md), [🇰🇷](https://github.com/ygnoh/design-patterns-in-javascript/blob/master/README.ko.md)
 
 In this repository, I will cover the below design patterns(a.k.a. GoF Design pattern) in javascript:
 
