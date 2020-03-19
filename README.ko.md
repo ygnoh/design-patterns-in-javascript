@@ -8,7 +8,7 @@
 2. [Adaptor 패턴(wrapper 패턴)](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/02-Adapter(wrapper)-pattern)
 3. [Template method 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/03-Template-method-pattern)
 4. [Factory method 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/04-factory-method-pattern)
-5. Singleton 패턴
+5. [Singleton 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/05-singleton-pattern)
 6. Prototype 패턴
 7. Builder 패턴
 8. Abstract factory 패턴

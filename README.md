@@ -8,7 +8,7 @@ In this repository, I will cover the below design patterns(a.k.a. GoF Design pat
 2. [Adaptor pattern(wrapper pattern)](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/02-Adapter(wrapper)-pattern)
 3. [Template method pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/03-Template-method-pattern)
 4. [Factory method pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/04-factory-method-pattern)
-5. Singleton pattern
+5. [Singleton pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/05-singleton-pattern)
 6. Prototype pattern
 7. Builder pattern
 8. Abstract factory pattern
