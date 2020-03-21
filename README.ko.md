@@ -10,7 +10,7 @@
 4. [Factory method 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/04-factory-method-pattern)
 5. [Singleton 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/05-singleton-pattern)
 6. [Prototype 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/06-prototype-pattern)
-7. Builder 패턴
+7. [Builder 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/07-builder-pattern)
 8. Abstract factory 패턴
 9. Bridge 패턴
 10. Strategy 패턴
