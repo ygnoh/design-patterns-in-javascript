@@ -11,7 +11,7 @@ In this repository, I will cover the below design patterns(a.k.a. GoF Design pat
 5. [Singleton pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/05-singleton-pattern)
 6. [Prototype pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/06-prototype-pattern)
 7. [Builder pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/07-builder-pattern)
-8. Abstract factory pattern
+8. [Abstract factory pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/08-abstract-factory-pattern)
 9. Bridge pattern
 10. Strategy pattern
 11. Composite pattern
