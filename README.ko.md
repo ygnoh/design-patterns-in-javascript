@@ -12,7 +12,7 @@
 6. [Prototype 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/06-prototype-pattern)
 7. [Builder 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/07-builder-pattern)
 8. [Abstract factory 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/08-abstract-factory-pattern)
-9. Bridge 패턴
+9. [Bridge 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/09-bridge-pattern)
 10. Strategy 패턴
 11. Composite 패턴
 12. Decorator 패턴
