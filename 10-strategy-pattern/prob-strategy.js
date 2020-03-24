@@ -15,12 +15,13 @@ class ProbStrategy {
     }
 
     nextHand() {
+        const row = this._history[this._currentHandValue];
         const bet = Math.random() * this._getSum(this._currentHandValue) | 0;
         let handValue;
 
-        if (bet < this._history[this._currentHandValue][0]) {
+        if (bet < row[0]) {
             handValue = 0;
-        } else if (bet < (this._history[this._currentHandValue][0] + this._history[this._currentHandValue][1])) {
+        } else if (bet < (row[0] + row[1])) {
             handValue = 1;
         } else {
             handValue = 2;
@@ -38,21 +39,17 @@ class ProbStrategy {
      * @private
      */
     _getSum(hv) {
-        let sum = 0;
-
-        for (let i = 0; i < 3; i++) {
-            sum += this._history[hv][i];
-        }
-
-        return sum;
+        return this._history[hv].reduce((acc, count) => acc += count, 0);
     }
 
     study(win) {
+        const row = this._history[this._prevHandValue];
+
         if (win) {
-            this._history[this._prevHandValue][this._currentHandValue]++;
+            row[this._currentHandValue]++;
         } else {
-            this._history[this._prevHandValue][(this._currentHandValue + 1) % 3]++;
-            this._history[this._prevHandValue][(this._currentHandValue + 2) % 3]++;
+            row[(this._currentHandValue + 1) % 3]++;
+            row[(this._currentHandValue + 2) % 3]++;
         }
     }
 }
