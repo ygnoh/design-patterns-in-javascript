@@ -14,7 +14,7 @@ In this repository, I will cover the below design patterns(a.k.a. GoF Design pat
 8. [Abstract factory pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/08-abstract-factory-pattern)
 9. [Bridge pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/09-bridge-pattern)
 10. [Strategy pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/10-strategy-pattern)
-11. Composite pattern
+11. [Composite pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/11-composite-pattern)
 12. Decorator pattern
 13. Visitor pattern
 14. Chain of responsibility pattern
