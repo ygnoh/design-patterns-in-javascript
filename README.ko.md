@@ -15,7 +15,7 @@
 9. [Bridge 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/09-bridge-pattern)
 10. [Strategy 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/10-strategy-pattern)
 11. [Composite 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/11-composite-pattern)
-12. Decorator 패턴
+12. [Decorator 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/12-decorator-pattern)
 13. Visitor 패턴
 14. Chain of responsibility 패턴
 15. Facade 패턴
