@@ -17,7 +17,7 @@ In this repository, I will cover the below design patterns(a.k.a. GoF Design pat
 11. [Composite pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/11-composite-pattern)
 12. [Decorator pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/12-decorator-pattern)
 13. [Visitor pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/13-visitor-pattern)
-14. Chain of responsibility pattern
+14. [Chain of responsibility pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/14-chain-of-responsibility-pattern)
 15. Facade pattern
 16. Mediator pattern
 17. Observer pattern

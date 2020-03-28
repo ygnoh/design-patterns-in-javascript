@@ -17,7 +17,7 @@
 11. [Composite 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/11-composite-pattern)
 12. [Decorator 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/12-decorator-pattern)
 13. [Visitor 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/13-visitor-pattern)
-14. Chain of responsibility 패턴
+14. [Chain of responsibility 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/14-chain-of-responsibility-pattern)
 15. Facade 패턴
 16. Mediator 패턴
 17. Observer 패턴
