@@ -19,7 +19,7 @@
 13. [Visitor 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/13-visitor-pattern)
 14. [Chain of responsibility 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/14-chain-of-responsibility-pattern)
 15. [Facade 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/15-facade-pattern)
-16. Mediator 패턴
+16. [Mediator 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/16-mediator-pattern)
 17. Observer 패턴
 18. Memento 패턴
 19. State 패턴
