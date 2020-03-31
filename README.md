@@ -20,7 +20,7 @@ In this repository, I will cover the below design patterns(a.k.a. GoF Design pat
 14. [Chain of responsibility pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/14-chain-of-responsibility-pattern)
 15. [Facade pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/15-facade-pattern)
 16. [Mediator pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/16-mediator-pattern)
-17. Observer pattern
+17. [Observer pattern(publish subscribe pattern)](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/17-observer-pattern)
 18. Memento pattern
 19. State pattern
 20. Flyweight pattern
