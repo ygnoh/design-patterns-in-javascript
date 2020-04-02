@@ -22,7 +22,7 @@
 16. [Mediator 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/16-mediator-pattern)
 17. [Observer 패턴(publish subscribe 패턴)](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/17-observer-pattern)
 18. [Memento 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/18-memento-pattern)
-19. State 패턴
+19. [State 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/19-state-pattern)
 20. Flyweight 패턴
 21. Proxy 패턴
 22. Command 패턴
