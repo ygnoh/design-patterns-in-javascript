@@ -24,6 +24,6 @@ In this repository, I will cover the below design patterns(a.k.a. GoF Design pat
 18. [Memento pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/18-memento-pattern)
 19. [State pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/19-state-pattern)
 20. [Flyweight pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/20-flyweight-pattern)
-21. Proxy pattern
+21. [Proxy pattern](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/21-proxy-pattern)
 22. Command pattern
 23. Interpreter pattern
