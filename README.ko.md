@@ -25,5 +25,5 @@
 19. [State 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/19-state-pattern)
 20. [Flyweight 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/20-flyweight-pattern)
 21. [Proxy 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/21-proxy-pattern)
-22. Command 패턴
+22. [Command 패턴](https://github.com/ygnoh/design-patterns-in-javascript/tree/master/22-command-pattern)
 23. Interpreter 패턴
